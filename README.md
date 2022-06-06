@@ -2,7 +2,7 @@
 
 ## Thaíssa Carrafa
 
-Tenho 28 anos, ex-advogada e Desenvolvedora BackEnd. :books: , mãe da Ester :baby_bottle: e do doguinho Tony Stark :dog:, apaixonada por paisagens :leaves:, comida e por bons momentos com minha família :two_hearts:.  
+Tenho 28 anos, ex-advogada e Desenvolvedora BackEnd. :books: , mãe da Ester :baby_bottle:, apaixonada por paisagens :leaves:, comida e por bons momentos com minha família :two_hearts:.  
 
 
 Atualmente trabalho em uma startup onde tive meu primeiro contato direto com o mundo da tecnologia e assim surgiu meu interesse em aprender a programar. 
