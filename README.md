@@ -15,7 +15,6 @@ Em constante aprendizado e sempre pronta pra novos desafios.
   
  
  <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   ##
  
 <div> 
