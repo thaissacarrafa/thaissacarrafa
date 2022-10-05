@@ -5,8 +5,10 @@
 Tenho 29 anos, ex-advogada e Desenvolvedora BackEnd. :books: , mãe da Ester :baby_bottle:, apaixonada por paisagens :leaves:, comida e por bons momentos com minha família :two_hearts:.  
 
 
-Atualmente trabalho em uma startup onde tive meu primeiro contato direto com o mundo da tecnologia e assim surgiu meu interesse em aprender a programar. 
-Fui aluna da turma On6 do {reprograma} :purple_heart: Back- End, financiado pela XP Inc. , onde  extrai o máximo de conhecimento neste primeiro degrau de muitos que pretendo percorrer para aprimorar meus conhecimentos com qualidade. 
+Trabalhei em uma startup onde tive meu primeiro contato direto com o mundo da tecnologia e assim surgiu meu interesse em aprender a programar. 
+Fui aluna da turma On6 do {reprograma} :purple_heart: Back- End, financiado pela XP Inc. , onde  extrai o máximo de conhecimento num primeiro degrau de muitos que pretendo percorrer para aprimorar meus conhecimentos com qualidade. 
+
+Atualmente sou desenvolvedora no Mercado Livre, atuando no time responsável pelo 💛 do Mercado Pago.
 
 Em constante aprendizado e sempre pronta pra novos desafios.
 
